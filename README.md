@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello World! I'm Veilatchi <br>👩‍💻 I'm working in sathya agency<br>✨ I Knew excel and sql<br>🤝 I Can learn something quickly <br>🌱 I'm currently learning Data analytics <br>👯‍♂️ Let's create something awesome together.
+👋 Hello World! I'm Veilatchi <br>✨ I Knew excel and sql<br>🤝 I Can learn something quickly <br>🌱 I'm currently learning Data analytics <br>👯‍♂️ Let's create something awesome together.
 
 
 ## 🌐 Socials:
