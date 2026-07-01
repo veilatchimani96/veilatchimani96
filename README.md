@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi, I'm **Vennila**!  
+Hi, I'm **VEILATCHI S**!  
 🎓 Aspiring Data Analyst with a passion for turning raw data into meaningful insights.
 
 - 📊 Skilled in Microsoft Excel, Power BI, SQL (MySQL), and Python
