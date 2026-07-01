@@ -13,11 +13,7 @@
 [![Naukri](https://img.shields.io/badge/Naukri-0054A6?style=for-the-badge&logoColor=white)](https://www.naukri.com/mnjuser/profile)
 [![Indeed](https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://profile.indeed.com/)
 
-## 🛠️ Languages & Tools:
-- 📊 Microsoft Excel
-- 📈 Power BI
-- 🗄️ SQL (MySQL)
-- 🐍 Python
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=veilatchimani96&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=veilatchimani96&theme=radical&hide_border=false)<br/>
