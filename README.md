@@ -1,5 +1,13 @@
-# 💫 About Me:
-👋 Hello World! I'm Veilatchi <br>✨ I Knew excel and sql<br>🤝 I Can learn something quickly <br>🌱 I'm currently learning Data analytics <br>👯‍♂️ Let's create something awesome together.
+## 👋 About Me
+
+Hi, I'm **Vennila**!  
+🎓 Aspiring Data Analyst with a passion for turning raw data into meaningful insights.
+
+- 📊 Skilled in Microsoft Excel, Power BI, SQL (MySQL), and Python
+- 📈 Interested in Data Analysis, Data Visualization, and Business Intelligence
+- 🌱 Currently learning advanced SQL, Python, and Power BI
+- 💼 Looking for opportunities as a Data Analyst
+- 🚀 Always eager to learn new technologies and build data-driven projects
 
 # 💻 Tech Stack:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -13,11 +21,6 @@
 [![Naukri](https://img.shields.io/badge/Naukri-0054A6?style=for-the-badge&logoColor=white)](https://www.naukri.com/mnjuser/profile)
 [![Indeed](https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://profile.indeed.com/)
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=veilatchimani96&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=veilatchimani96&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=veilatchimani96&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
